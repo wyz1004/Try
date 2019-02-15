@@ -1,25 +1,43 @@
-                        print only branches that don't contain the commit
-    --abbrev[=<n>]        use <n> digits to display SHA-1s
 
-Specific git-branch actions:
-    -a, --all             list both remote-tracking and local branches
-    -d, --delete          delete fully merged branch
-    -D                    delete branch (even if not merged)
-    -m, --move            move/rename a branch and its reflog
-    -M                    move/rename a branch, even if target exists
-    -c, --copy            copy a branch and its reflog
-    -C                    copy a branch, even if target exists
-    --list                list branch names
-    -l, --create-reflog   create the branch's reflog
-    --edit-description    edit the description for the branch
-    -f, --force           force creation, move/rename, deletion
-    --merged <commit>     print only branches that are merged
-    --no-merged <commit>  print only branches that are not merged
-    --column[=<style>]    list branches in columns
-    --sort <key>          field name to sort on
-    --points-at <object>  print only branches of the object
-    -i, --ignore-case     sorting and filtering are case insensitive
-    --format <format>     format to use for the output
+ffsfsijoifjsfoisaffffffffffffffffffffffffffffffffffffff;
+fasjiooooooooooooooooooooo''''''''oifjas;ds                       
+jofiasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+fasdddddddddddddddddddddddddddddd
+avjoiddddiodsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+jfofjofifjeofeijfoeifjreogijgvoirgjeogiejrfeiofjerofijerogfehgiohgsdriohbsihrgigsdrgrsgsgs
+sgdsjgoig;vjrgvorgjroibhjrobsb
+sgjdsogijgo;djgvso;gijdfonbos;g
+skgopdsgjsoigjeojgobndoijvsp'gpkgegopie09ftiet09u398ruf
+agjaeoigj;fosjnakdihio;gjnvklsjg;ogie09t8-3r03=49t03849gjkgljsdgsdgje09fagieoiggagjo'gaagg
+agoijogauo;erue89ruhvndkvjdnvioauf89wpojvnjckhvsidoasa
+afojsfaiofhaeifknasfaifuaeifaf
+ajfoiafhfaoashnsjkfafaf
+afjaosfihsofhasfoiahfaf
+ajfsaiofajsfioshfosfsa
+fasfiaouefhiohsfa
+aoihaeoiahasifa
+print only branaahfouihaoihofsdhaousiafches that don't contain the commit
+    --abbrev[=<n>]        use <n> digitajaofiajoasfjass to display SHA-1s
+fa;sda
+Speciffasiofsjdaic git-branch actions:
+    -a, --all   doifsj          list both remote-tracking and local branches
+    -d, --delete      asfaiofsjd    delete fully merged branch
+    -D                    deleteaio'efais branch (even if not merged)
+    -m, --move            move/rename a bdaioefjs/ranch and its reflog
+    -M                    move/rename a branch, evaioashdfasfhasfien if target exists
+    -c, --copy            copy a branch and its reflogasfhasiofhsfas
+    -C                    copy a branch, even if target existshasiofuavhdfa
+    --list                list branch namessfshifhnscfa
+    -l, --create-reflog   create the branch's reflogsfjaspfsjnfka
+    --edit-description    edit the description for the branchfjosifjvda
+    -f, --force           force creation, move/rename, deletionfjsaifoaisfasaajfoifjsafo
+    --merged <commit>     print only branches that are mergedasfasjfhafiof
+    --no-merged <commit>  print only branches that are not mergedasjasiofajs/fs
+    --column[=<style>]    list branches in columnsfasiofsh/fsf
+    --sort <key>          field name to sort onasfjaoif/s
+    --points-at <object>  print only branches of the objefsajfai/fact
+    -i, --ignore-case     sorting and filtering are case insensitivsjfa/oasfae
+    --format <format>     format to use for the outputfashifsjflsk
 
 
 issuser@DESKTOP-28OFHP7 MINGW64 /d/deviceManage/Try (master)
