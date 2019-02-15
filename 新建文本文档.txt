@@ -1,4 +1,14 @@
 
+nosjvadiovjsofivifjsofisjfsf
+sfjsfojfsf
+sfsjflaj
+sdfsaofijodf;as
+fjasdfiosjfsf
+sfasofjafo;s
+ajsfiosfjnva
+vxzvknzkvia;sf
+
+
 ffsfsijoifjsfoisaffffffffffffffffffffffffffffffffffffff;
 fasjiooooooooooooooooooooo''''''''oifjas;ds                       
 jofiasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
@@ -37,7 +47,7 @@ Speciffasiofsjdaic git-branch actions:
     --sort <key>          field name to sort onasfjaoif/s
     --points-at <object>  print only branches of the objefsajfai/fact
     -i, --ignore-case     sorting and filtering are case insensitivsjfa/oasfae
-    --format <format>     format to use for the outputfashifsjflsk
+    --format <format>     format to use for the outputfashifsjflsik
 
 
 issuser@DESKTOP-28OFHP7 MINGW64 /d/deviceManage/Try (master)
